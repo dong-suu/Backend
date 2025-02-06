@@ -1,0 +1,11 @@
+{
+    "livePreview.customExternalBrowser": "Chrome",
+    "livePreview.httpHeaders": {
+    
+
+        "Accept-Ranges": "bytes"
+    },
+    "livePreview.portNumber": 5000,
+    "livePreview.showServerStatusNotifications": true,
+    "livePreview.tasks.runTaskWithExternalPreview": true
+}
